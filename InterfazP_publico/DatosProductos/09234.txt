@@ -1,5 +1,0 @@
-Codigo: 09234
-Nombre: Papel noble(12 unidades)
-Precio: 9.5
-Stock: 20
-------------------------

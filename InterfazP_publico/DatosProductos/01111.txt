@@ -1,6 +1,0 @@
-Codigo: 01111
-Nombre: Pro-can(cachorro)
-Precio: 40.0
-Stock: 8
-------------------------
-Ventas: 2

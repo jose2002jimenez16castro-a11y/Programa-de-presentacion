@@ -1,7 +1,0 @@
-Codigo: 00123
-Nombre: Arroz conejo 50kg
-Precio: 40
-Stock: 10
-------------------------
-Ventas: 12
-Última actualización: 2025-07-12 23:54:49
