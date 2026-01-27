@@ -1,0 +1,6 @@
+Codigo: 01234
+Nombre: Maiz Balanceado
+Precio: 20.0
+Stock: 8
+------------------------
+Ventas: 2
