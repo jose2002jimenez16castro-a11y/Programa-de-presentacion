@@ -1,0 +1,6 @@
+Codigo: 00124
+Nombre: Arroz flor 50 kg
+Precio: 39.0
+Stock: 2
+------------------------
+Ventas: 4

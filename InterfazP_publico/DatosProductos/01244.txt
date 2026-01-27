@@ -1,0 +1,6 @@
+Codigo: 01244
+Nombre: Lentrja 50kg
+Precio: 50.0
+Stock: 7
+------------------------
+Ventas: 3

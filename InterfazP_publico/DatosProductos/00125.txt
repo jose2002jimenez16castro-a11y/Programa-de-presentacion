@@ -1,0 +1,6 @@
+Codigo: 00125
+Nombre: Aceite 24 unidades
+Precio: 30.0
+Stock: 15
+------------------------
+Ventas: 2
